@@ -8,8 +8,14 @@ git init
 ## to include a readme.md 
 git add README.md
 
-## to include deletions:
+## to include deletions during staging:
 git add --all
+
+## or, insetad of removing first and staging later
+
+git rm filename
+
+##
 
 git commit -m "first commit"
 
