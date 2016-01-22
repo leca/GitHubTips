@@ -11,7 +11,7 @@ git add README.md
 ## to include deletions during staging:
 git add --all
 
-## or, insetad of removing first and staging later
+## or, instead of removing first and staging later
 
 git rm filename
 
