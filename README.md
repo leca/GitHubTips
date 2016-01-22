@@ -26,3 +26,6 @@ git push -u origin master
 ## to clone a repo (after fork!)
 
 git clone repo_url
+
+## to clone with a new directory name
+git clone repo_url new_dir
